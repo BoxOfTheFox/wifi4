@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">wifi4</string>
+    <string name="scanInfo">Looking for devices...</string>
+    <string name="send_message">Send Message</string>
+    <string name="send_accelerometer_data">Send Accelerometer Data</string>
+    <string name="send_magnetometer_data">Send Gyroscope Data</string>
+    <string name="send">Send</string>
+</resources>
